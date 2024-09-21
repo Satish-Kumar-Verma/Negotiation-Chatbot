@@ -81,7 +81,7 @@ This chatbot simulates a negotiation process between a customer and a supplier u
 3. **Download the JSON Input File**:
 
    You can download a set of pre-defined inputs to use in Postman from the following link:  
-   [negotiation_inputs.txt](link)
+   [negotiation_inputs.txt](https://github.com/Satish-Kumar-Verma/Negotiation-Chatbot/blob/main/chatbot/negotiation_inputs.txt)
 
 ---
 
@@ -93,7 +93,7 @@ Sometimes, the bot might generate responses that don't strictly follow the prici
 
 ## Demo
 
-You can view the demo of the chatbot in action [here](../Demo.mp4). The demo video is located in the `Negotiation_Chatbot/` directory, outside the program folder.
+You can view the demo of the chatbot in action [here](https://github.com/Satish-Kumar-Verma/Negotiation-Chatbot/blob/main/Demo.mp4). The demo video is located in the `Negotiation_Chatbot/` directory, outside the program folder.
 
 ---
 
