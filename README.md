@@ -100,3 +100,8 @@ You can view the demo of the chatbot in action [here](https://github.com/Satish-
 ## Customization
 
 You can customize the base price, discount percentage, and response templates inside the `PricingLogic` class in `app.py`.
+
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
