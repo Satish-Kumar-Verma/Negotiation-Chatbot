@@ -1,0 +1,22 @@
+{
+    "offer": 95,
+    "message": "I think $95 is a fair offer for this product."
+}
+
+
+{
+    "offer": 120,
+    "message": "How about $120 for the product?"
+}
+
+
+{
+    "offer": 80,
+    "message": "I would like to offer $80 for the product."
+}
+
+
+{
+    "offer": 85,
+    "message": "I really appreciate your time. Could we settle at $85?"
+}
