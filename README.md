@@ -13,6 +13,15 @@ This chatbot simulates a negotiation process between a customer and a supplier u
   - Offers above $100 are rejected.
   - Offers below the minimum price are countered with a request for a higher offer.
 
+---
+
+## Table of Contents
+- [Introduction](#introduction)
+- [How GPT-3.5 Model Was Integrated](MODEL_INTEGRATION.md)
+- [Setup Instructions](#setup-instructions)
+
+---
+
 ## Setup Instructions
 
 1. **Clone the repository**:
@@ -82,13 +91,6 @@ This chatbot simulates a negotiation process between a customer and a supplier u
 
    You can download a set of pre-defined inputs to use in Postman from the following link:  
    [negotiation_inputs.txt](https://github.com/Satish-Kumar-Verma/Negotiation-Chatbot/blob/main/chatbot/negotiation_inputs.txt)
-
----
-
-## Table of Contents
-- [Introduction](#introduction)
-- [How GPT-3.5 Model Was Integrated](MODEL_INTEGRATION.md)
-- [Setup Instructions](#setup-instructions)
 
 ---
 
