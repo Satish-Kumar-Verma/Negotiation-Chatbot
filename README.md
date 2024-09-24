@@ -85,6 +85,13 @@ This chatbot simulates a negotiation process between a customer and a supplier u
 
 ---
 
+## Table of Contents
+- [Introduction](#introduction)
+- [How GPT-3.5 Model Was Integrated](MODEL_INTEGRATION.md)
+- [Setup Instructions](#setup-instructions)
+
+---
+
 ## Prompt Error and Model Limitations
 
 Sometimes, the bot might generate responses that don't strictly follow the pricing logic. This is due to the usage of the GPT-3.5-turbo model, which can occasionally result in less accurate adherence to predefined logic. Using a more advanced model like GPT-4 can help mitigate these issues and provide more consistent responses.
