@@ -16,7 +16,6 @@ This chatbot simulates a negotiation process between a customer and a supplier u
 ---
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [How GPT-3.5 Model Was Integrated](MODEL_INTEGRATION.md)
 - [Setup Instructions](#setup-instructions)
 
