@@ -99,14 +99,10 @@ Sometimes, the bot might generate responses that don't strictly follow the prici
 
 ---
 
-## Demo
-
-You can view the demo of the chatbot in action [!here](https://github.com/Satish-Kumar-Verma/Negotiation-Chatbot/blob/main/Demo.mp4). The demo video is located in the `Negotiation_Chatbot/` directory, outside the program folder.
-
 
 ## Demo Video
 
-[![Watch the demo on Vimeo](https://img.shields.io/badge/Demo-Video-blue)](https://vimeo.com/1043730623)
+https://meet.google.com/yif-gcvx-jcn[![Watch the demo on Vimeo](https://img.shields.io/badge/Demo-Video-blue)](https://vimeo.com/1043730623)
 
 
 ---
