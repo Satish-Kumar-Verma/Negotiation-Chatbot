@@ -103,7 +103,7 @@ Sometimes, the bot might generate responses that don't strictly follow the prici
 
 You can view the demo of the chatbot in action here.
 
-[![Watch the demo on Vimeo](https://img.shields.io/badge/Demo-Video-blue)](https://vimeo.com/1043730623)
+https://github.com/Satish-Kumar-Verma/Negotiation-Chatbot/blob/main/Demo.mp4
 
 
 ---
