@@ -103,7 +103,9 @@ Sometimes, the bot might generate responses that don't strictly follow the prici
 
 You can view the demo of the chatbot in action here.
 
-https://github.com/user-attachments/assets/809fb859-229a-4c19-874c-bb53469b9ce3
+<video src="https://github.com/user-attachments/assets/809fb859-229a-4c19-874c-bb53469b9ce3" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+</video>
 
 
 ---
